@@ -10,5 +10,6 @@ A collection of quantitative research and simulation projects focusing on risk m
 This repository consolidates independent, educational research exploring applied risk management and actuarial analytics.  
 
 ### Disclaimer  
-Research powered by ChatGPT.  
 For academic or educational use only.  
+
+Large language model (LLM) tools were used for coding support and workflow acceleration.
